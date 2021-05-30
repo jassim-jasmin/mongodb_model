@@ -36,6 +36,9 @@ Mongodb:
                 - `name`
                 - `version`
     
+- Installation
+    -
+     `pip install mongodb-ml-models`
 - Usage
     -
     - Importing package

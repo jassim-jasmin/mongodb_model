@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="mongodb-ml-model-handle-YOUR-USERNAME-HERE",
+    name="mongodb-ml-models",
     version="1.0.0",
     author="Mohammed Jassim",
     author_email="mohammedjassim.jasmir@gmail.com",
